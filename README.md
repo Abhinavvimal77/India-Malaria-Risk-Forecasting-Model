@@ -1,4 +1,4 @@
-# India Malaria Risk Forecasting and Prioritization System 🇮🇳
+# India Malaria Risk Forecasting and Prioritization System
 
 ## Project Overview
 
@@ -107,6 +107,6 @@ Feel free to open issues, submit pull requests, or suggest improvements!
 
 
 
-* **Your Name** -Abhinav m -  [Abhinavvimal77](https://github.com/Abhinavvimal77) 
+-Abhinav m -  [Abhinavvimal77](https://github.com/Abhinavvimal77) 
 
 ---
